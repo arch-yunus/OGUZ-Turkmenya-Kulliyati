@@ -6,13 +6,19 @@ Yörük kültürü, sadece bir hayvancılık pratiği veya göçebelik biçimi d
 ## Temel Sütunlar
 
 ### 1. Hareketin Kutsallığı (Dinamizm)
-Yörük için durmak, tükenmektir. "Göç" sadece mekânsal bir yer değiştirme değil, ruhsal bir tazelenmedir. Yaylak ve kışlak arasındaki döngü, evrenin ritmiyle uyumlanma sürecidir.
+Yörük için durmak, tükenmektir. "Göç" sadece mekânsal bir yer değiştirme değil, ruhsal bir tazelenmedir. Yaylak ve kışlak arasındaki döngü, evrenin ritmiyle uyumlanma sürecidir. Bu, Deleuze'ün "göçebe düşünce" (nomadic thought) kavramının pratik bir izdüşümüdür.
 
 ### 2. Töre ve Adalet
-Yazılı olmayan ancak vicdanlara kazınmış olan "Töre", toplumsal düzenin teminatıdır. Misafirperverlik, dürüstlük ve doğaya saygı bu törenin sarsılmaz maddeleridir.
+Yazılı olmayan ancak vicdanlara kazınmış olan "Töre", toplumsal düzenin teminatıdır. Misafirperverlik, dürüstlük ve doğaya saygı bu törenin sarsılmaz maddeleridir. Töre, merkezi bir otoriteden ziyade, bireyin kendi iç disipliniyle şekillenir.
 
-### 3. Doğayla Simbiyotik İlişki
+### 3. Horasani Ruh ve Sadelik
+Yörük felsefesinin kökeninde Horasan'dan süzülüp gelen "Alperen" ruhu ve dervişane bir sadelik yatar. Az eşya, çok anlam ilkesi geçerlidir. İnsan, sahip olduğu eşyaların efendisi olmalı, onlara köle olmamalıdır.
+
+### 4. Bağımsızlık ve Ontolojik Özgürlük
+Yörük, mülkiyete değil, özgürlüğe yatırım yapar. Toprağa bağlılık bir aidiyet değil, bir yol arkadaşlığıdır. Bu bağlamda Yörük, devletin ve yerleşik nizamın sınırlarını aşan, kendi otonom bölgesini (Temporary Autonomous Zone) kuran bir figürdür.
+
+### 5. Doğayla Simbiyotik İlişki
 Yörük, doğaya hükmetmeye çalışmaz; onun bir parçası olduğunu bilir. Keçisinin otladığı yerin bereketini korumak, suyun akışına saygı duymak ve kurdun-kuşun hakkını gözetmek varoluşsal bir zorunluluktur.
 
 ## Modernite ve Yörük Ruhu
-Dijital çağda Yörük ruhunu yaşatmak, fiziksel göçten ziyade zihinsel bir bağımsızlığı ve doğaya dönüş arzusunu temsil eder. "Yaylak Yolu", bu ruhun modern dünyadaki dijital izdüşümüdür.
+Dijital çağda Yörük ruhunu yaşatmak, fiziksel göçten ziyade zihinsel bir bağımsızlığı ve doğaya dönüş arzusunu temsil eder. "Yaylak Yolu", bu ruhun modern dünyadaki dijital izdüşümüdür. Bilgi de bir yaylak gibi taze, akışkan ve paylaşılabilir olmalıdır.
