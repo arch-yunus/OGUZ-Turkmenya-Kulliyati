@@ -16,5 +16,6 @@ Kara çadır, göçebe mimarisinin zirvesidir. Az malzeme ile maksimum hacim ve 
 ## Hareketin Estetiği
 Göç eden bir obanın görüntüsü, Toroslar'ın sarp kayalıkları üzerinde akan bir nehri andırır. Bu dinamik görüntü, Yörük ruhunun en saf estetik ifadesidir. Durmak estetik bir kusur, hareket ise en yüksek güzellik formudur.
 
-## Dijital Estetik ve Yörük Ruhu
-Modern dünyada Yörük estetiği, "temiz kod" ve "verimli sistemler" ile eşleşir. Gereksiz hiçbir satırın olmadığı bir algoritma, Yörük'ün heybesi kadar zarif ve işlevseldir.
+
+---
+*Bu doküman, Toroslar'ın zirvelerinde yankılanan bin yıllık bir estetik anlayışın ontolojik kaydıdır.*

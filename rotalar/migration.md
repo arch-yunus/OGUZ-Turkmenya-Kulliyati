@@ -17,5 +17,5 @@ Serik ve Manavgat ovalarından başlayarak Akseki ve İbradı üzerinden İç An
 *   **Güz Göçü:** Yaylaların soğumasıyla sahillere (kışlaklara) iniş. Genellikle Ekim sonu.
 *   **Bahar Göçü:** Sahillerin ısınmasıyla serin yaylalara çıkış. Genellikle Mayıs başı (Hıdırellez sonrası).
 
-## Dijital Haritalama
-Gelecek aşamalarda, bu rotaların GPS koordinatları ve tarihsel durak noktaları (pınarlar, hanlar, namazgahlar) sisteme entegre edilecektir.
+## Coğrafi Tasnif ve Rotalama
+Gelecek aşamalarda, bu rotaların coğrafi işaretleri ve tarihsel durak noktaları (pınarlar, hanlar, namazgahlar) külliyata dahil edilecektir.

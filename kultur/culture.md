@@ -16,4 +16,4 @@ Doğadan toplananlar ve hayvansal ürünlerin muhteşem uyumu.
 *   **Yörük Yoğurdu ve Peyniri:** Toroslar'ın kekik kokulu sütünden elde edilen ürünler.
 
 ## Somut Olmayan Miras
-Bu değerlerin dijital olarak kayıt altına alınması, gelecek kuşaklara aktarılacak olan en büyük hazinedir.
+Bu değerlerin titizlikle kayıt altına alınması, gelecek kuşaklara aktarılacak olan en büyük hazinedir.

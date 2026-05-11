@@ -21,4 +21,4 @@ Yörük, mülkiyete değil, özgürlüğe yatırım yapar. Toprağa bağlılık 
 Yörük, doğaya hükmetmeye çalışmaz; onun bir parçası olduğunu bilir. Keçisinin otladığı yerin bereketini korumak, suyun akışına saygı duymak ve kurdun-kuşun hakkını gözetmek varoluşsal bir zorunluluktur.
 
 ## Modernite ve Yörük Ruhu
-Dijital çağda Yörük ruhunu yaşatmak, fiziksel göçten ziyade zihinsel bir bağımsızlığı ve doğaya dönüş arzusunu temsil eder. "Yaylak Yolu", bu ruhun modern dünyadaki dijital izdüşümüdür. Bilgi de bir yaylak gibi taze, akışkan ve paylaşılabilir olmalıdır.
+Günümüzde Yörük ruhunu yaşatmak, fiziksel göçten ziyade zihinsel bir bağımsızlığı ve doğaya dönüş arzusunu temsil eder. Bu çalışma, bu ruhun modern dünyadaki fikri sığınağıdır. Bilgi de bir yaylak gibi taze, akışkan ve tüm insanlığın istifadesine açık olmalıdır.

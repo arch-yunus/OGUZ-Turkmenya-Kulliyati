@@ -25,4 +25,4 @@ Bu bölüm, Antalya ve çevresindeki Yörük ağzında kullanılan, birçoğu un
 | **Deri** | Peynir ve yağ saklamak için kullanılan hayvan postu (Tulum). | Mutfak |
 
 ## Kelime Hazinesini Genişletme
-Bu lugat, yerel ağızların korunması amacıyla sürekli güncellenmektedir. Her kelime, bir yaşanmışlığın ve bin yıllık bir birikimin dijital kalesidir.
+Bu lugat, yerel ağızların korunması amacıyla sürekli güncellenmektedir. Her kelime, bir yaşanmışlığın ve bin yıllık bir birikimin hafıza kalesidir.
