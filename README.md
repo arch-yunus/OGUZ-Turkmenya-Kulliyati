@@ -8,54 +8,56 @@
 ---
 
 ## 🧠 Felsefi Sütunlar ([felsefe/](felsefe/))
-Yörük yaşamı, sadece bir hayatta kalma mücadelesi değil, derin bir düşünsel altyapının pratik yansımasıdır.
-
-*   **[Ontoloji: Varoluş ve Hareket](felsefe/ontoloji.md):** Yörük ruhunun dinamizmi ve doğayla kurduğu varoluşsal bağ.
-*   **[Etik: Yolun Yasası](felsefe/etik.md):** Töre, misafirperverlik ve doğaya karşı ahlaki sorumluluklar.
-*   **[Kozmoloji: Gök ve Yer Dengesi](felsefe/kozmoloji.md):** Yıldızlar, zaman algısı ve evrenle kurulan mistik ilişki.
-*   **[Estetik: Sadeliğin Sanatı](felsefe/estetik.md):** Fonksiyonellik ve minimalizmin Yörük sanatındaki izdüşümü.
+Yörük yaşamı, derin bir düşünsel altyapının pratik yansımasıdır.
+*   **[Ontoloji: Varoluş ve Hareket](felsefe/ontoloji.md)**
+*   **[Etik: Yolun Yasası](felsefe/etik.md)**
+*   **[Kozmoloji: Gök ve Yer Dengesi](felsefe/kozmoloji.md)**
+*   **[Estetik: Sadeliğin Sanatı](felsefe/estetik.md)**
 
 ---
 
-## 🧭 Arşiv Haritası
+## 🧭 Arşiv Haritası (Genişletilmiş)
 
 ### 1. 📜 Sözlü Gelenek ve Edebiyat ([sozler/](sozler/))
-*   **[Atasözleri ve Hikmetler](sozler/wisdom.md):** Hayatın özeti olan kadim öğretiler.
-*   **[Maniler ve Ağıtlar](sozler/maniler.md):** Duygusal ve ritmik dışavurumlar.
-*   **[Destanlar ve Efsaneler](sozler/destanlar.md):** Toroslar'ın mitolojik hafızası.
+*   **[Atasözleri ve Hikmetler](sozler/wisdom.md)**
+*   **[Maniler ve Ağıtlar](sozler/maniler.md)**
+*   **[Destanlar ve Efsaneler](sozler/destanlar.md)**
 
 ### 2. 📖 Dil ve Dilbilim ([sozluk/](sozluk/))
-*   **[Kadim Kelimeler Sözlüğü](sozluk/dictionary.md):** Temel kavramlar ve karşılıkları.
-*   **[Etimolojik Analiz](sozluk/etimoloji.md):** Kelimelerin tarihsel köken yolculuğu.
-*   **[Dilbilimsel Yapı](sozluk/dilbilim.md):** Ses bilgisi ve gramer özellikleri.
+*   **[Kadim Kelimeler Sözlüğü](sozluk/dictionary.md)**
+*   **[Etimolojik Analiz](sozluk/etimoloji.md)**
+*   **[Dilbilimsel Yapı](sozluk/dilbilim.md)**
 
-### 3. 🧶 Sosyoloji ve Kültür ([kultur/](kultur/))
-*   **[Sosyal Yapı ve Hiyerarşi](kultur/sosyal-yapi.md):** Oba sistemi, beylik ve töre yönetimi.
-*   **[Maddi Kültür Arşivi](kultur/culture.md):** Dokuma, mutfak ve zanaat gelenekleri.
-*   **[Hayvancılık ve Çobanlık](kultur/hayvancilik.md):** Sürü yönetimi ve halk hekimliği.
+### 3. 🧶 Kültür ve Toplum ([kultur/](kultur/))
+*   **[Sosyal Yapı ve Hiyerarşi](kultur/sosyal-yapi.md)**
+*   **Mutfak Arşivi:** [Tarifler](kultur/mutfak/tarifler.md)
+*   **Zanaat Arşivi:** [Dokuma Sanatı](kultur/zanaat/dokuma.md)
+*   **Müzik ve Oyunlar:** [Enstrümanlar](kultur/muzik-oyun/enstrumanlar.md)
+*   **İnanışlar:** [Halk İnanışları ve Tabular](kultur/inanis/dogustu.md)
+*   **[Hayvancılık ve Çobanlık](kultur/hayvancilik.md)**
+*   **[Genel Kültür](kultur/culture.md)**
 
-### 4. 🗺️ Coğrafya ve Ekoloji ([rotalar/](rotalar/))
-*   **[Göç Rotaları](rotalar/migration.md):** Sahilden yaylaya ana arterler.
-*   **[Tarihi Duraklar](rotalar/durak-noktalari.md):** Pınarlar, hanlar ve mola yerleri.
-*   **[Flora ve Fauna](rotalar/ekosistem.md):** Yol üzerindeki biyolojik çeşitlilik.
-
----
-
-## 🚀 Gelecek Vizyonu (Roadmap)
-
-- [ ] **Interaktif Göç Haritası:** Rotaların 3D modellenmesi ve GPS entegrasyonu.
-- [ ] **Yörük-AI Sözlüğü:** Yörük ağzını standart Türkçe'ye çeviren NLP modelleri.
-- [ ] **Dijital Kilim Arşivi:** Kilim motiflerinin semantik anlamlarını içeren veritabanı.
+### 4. 🗺️ Coğrafya ve Rotalar ([rotalar/](rotalar/))
+*   **[Göç Rotaları](rotalar/migration.md)**
+*   **[Meşhur Yaylalar Listesi](rotalar/yaylalar.md)**
+*   **[Tarihi Duraklar](rotalar/durak-noktalari.md)**
+*   **[Flora ve Fauna](rotalar/ekosistem.md)**
 
 ---
 
-## 🤝 Katkıda Bulunma: "Obaya Bir Çıra Yakmak"
-
-Bu proje, her katılımcının eklediği bir "kelime" veya "hikaye" ile büyür. Katkı sağlamak için **Pull Request** göndererek bu dijital törenin bir parçası olun.
+## 🚀 Yol Haritası (Roadmap)
+- [ ] **Interaktif Göç Haritası:** 3D modelleme ve GPS entegrasyonu.
+- [ ] **Yörük-AI Sözlüğü:** Doğal Dil İşleme (NLP) modelleri.
+- [ ] **Dijital Kilim Arşivi:** Semantik motif veritabanı.
 
 ---
 
-**Lisans:** Bu proje **MIT Lisansı** ile korunmaktadır. 
+## 🤝 Katkıda Bulunma
+Her katılımcının eklediği bir "kelime" veya "hikaye" ile büyüyoruz. **Pull Request** göndererek bu dijital obaya odun taşıyabilirsiniz.
+
+---
+
+**Lisans:** MIT Lisansı. 
 
 > *"Yörük ölür töre kalır, at ölür meydan kalır."*
 
