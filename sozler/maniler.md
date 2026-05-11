@@ -20,5 +20,19 @@ Yörük kültürü, duygularını ve yaşanmışlıklarını maniler aracılığ
 > Çoban gelmiş yayladan,
 > Kaderine boyun eğerek."
 
+## Yayla ve Hasret Manileri
+> "Gitme durnam bellerin avcısı çekilsin,
+> İneceğin göllerin donu çezilsin,
+> Kanadı bitmedik yavrular kalındı kal."
+
+> "Yayla yolu toz olur,
+> Mevsim geçer yaz olur.
+> Yörük kızı sevmesi,
+> Cilve olur, naz olur."
+
+## Atışma ve Neşe Manileri
+> "Gel sarılalım yatalım ikimiz,
+> Hel gelin sulu sulu şeftali yükümüz."
+
 ---
-*Bu maniler, Antalya'nın Akseki, İbradı ve Serik köylerinden derlenmiştir.*
+*Bu maniler, Antalya'nın Akseki, İbradı, Serik ve Teke Yöresi'nin derin vadilerinden derlenmiştir. Her mani, bir yaşanmışlığın sesli imzasıdır.*
