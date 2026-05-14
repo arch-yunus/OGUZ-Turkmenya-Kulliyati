@@ -2,20 +2,23 @@
 
 Yörük estetiği, "ihtiyaç duyulmayan hiçbir şeyin var olmaya hakkı yoktur" ilkesine dayanır. Bu, minimalist bir güzellik anlayışıdır. Her nesne, bir amaca hizmet ettiği sürece estetiktir.
 
-## Biçim ve Fonksiyon (Form and Function)
+## 1. Biçim ve Fonksiyon (Geometrik Zeka)
 Yörük eşyasında süs, fonksiyonun bir parçasıdır. Güzellik, nesnenin işlevini yerine getirme mükemmelliğinden doğar.
-*   **Kilim Motifleri:** Sadece görsel bir şölen değil, aynı zamanda birer sembolik dildir (Örn: Nazarlık, Bereket, Hayat Ağacı). Dokuyan kişinin o anki ruh halinin birer "hata payı" olmayan projeksiyonudur.
-*   **Çan Sesleri:** Her çanın tonu, sürü içindeki hayvanın konumunu belirleyen estetik bir akustik tasarımdır. Bu, doğanın içinde yapay olmayan bir senfoni oluşturur.
+*   **Kilim Motifleri:** Sadece görsel bir şölen değil, aynı zamanda Oğuz damgalarının ve boy sembollerinin (Kayı, Avşar vb.) taşındığı birer sembolik dildir. Her motif, Orta Asya'dan Anadolu'ya taşınan bir hafıza kartıdır.
+*   **Çan Sesleri (Akustik Estetik):** Her çanın tonu, sürünün ritmini ve konumunu belirler. Bu, Toroslar'ın sessizliğinde yankılanan yapay olmayan bir senfonidir.
 
-## Malzeme Dürüstlüğü
-Doğanın sunduğu ham maddeyi (Yün, Kıl, Ahşap, Taş) en az müdahaleyle en yüksek verime dönüştürme sanatı. Güzellik, malzemenin kendi doğasını yansıtmasında gizlidir. Boyalar bile "kök boya" olarak doğadan alınır; bu da renklerin zamanla solmamasını, aksine karakter kazanmasını sağlar.
+## 2. Kök Renkler ve Malzeme Dürüstlüğü
+Yörük estetiği, doğayı taklit etmez, doğanın bizzat kendisini kullanır.
+*   **Kök Boya:** Doğanın sunduğu bitki ve minerallerden damıtılan renkler, zamanla solmaz aksine karakter kazanır. "Gök" (mavi-lacivert) rengi, kutsal bir derinliği temsil eder.
+*   **Malzeme:** Yün, kıl, ahşap ve deri... Malzemenin kendi doğasını yansıtması esastır. Plastik ve sentetik olanın bu estetik evrende yeri yoktur.
 
-## Mekan Estetiği: Çadırın Geometrisi
-Kara çadır, göçebe mimarisinin zirvesidir. Az malzeme ile maksimum hacim ve dayanıklılık sunar. Çadırın iç düzeni, sosyal hiyerarşiyi ve kullanım kolaylığını mükemmel bir simetriyle birleştirir. Bu, "taşınabilir bir yuva" estetiğidir; çevreye zarar vermeyen, iz bırakmayan bir mimaridir.
+## 3. Mekan Estetiği: Çadırın Kozmik Geometrisi
+Kara çadır, göçebe mimarisinin zirvesidir. 
+*   **Minimalizm:** Az malzeme ile maksimum hacim.
+*   **Kozmoloji:** Çadırın tavanı gökyüzünü, direği ise "Dünya Ağacı"nı veya kozmik ekseni temsil eder. Çadır, evrenin küçük bir modelidir. İz bırakmayan, doğaya saygılı, sökülüp takılabilen bir "taşınabilir vatan" tasarımıdır.
 
-## Hareketin Estetiği
-Göç eden bir obanın görüntüsü, Toroslar'ın sarp kayalıkları üzerinde akan bir nehri andırır. Bu dinamik görüntü, Yörük ruhunun en saf estetik ifadesidir. Durmak estetik bir kusur, hareket ise en yüksek güzellik formudur.
-
+## 4. Hareketin Estetiği (Dinamik Güzellik)
+Yörük estetiğinin en yüksek formu, hareket halindeki bir obadır. Duran her şey kirlenmeye, hareket eden her şey ise arınmaya meyillidir. Göç eden bir obanın sarp kayalıklar üzerindeki süzülüşü, Yörük ruhunun en saf estetik manifestosudur.
 
 ---
 *Bu doküman, Toroslar'ın zirvelerinde yankılanan bin yıllık bir estetik anlayışın ontolojik kaydıdır.*

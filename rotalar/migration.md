@@ -13,9 +13,12 @@ Antalya merkez ve Aksu çevresinden başlayarak Döşemealtı üzerinden Korkute
 ### 3. Doğu Hattı (Serik-Manavgat)
 Serik ve Manavgat ovalarından başlayarak Akseki ve İbradı üzerinden İç Anadolu sınırındaki yaylalara uzanan, hayvancılığın en yoğun olduğu rotalardır.
 
-## Göç Zamanlaması
-*   **Güz Göçü:** Yaylaların soğumasıyla sahillere (kışlaklara) iniş. Genellikle Ekim sonu.
-*   **Bahar Göçü:** Sahillerin ısınmasıyla serin yaylalara çıkış. Genellikle Mayıs başı (Hıdırellez sonrası).
+## Göç Zamanlaması ve Sosyal Hayata Etkisi
+
+Göç zamanlaması sadece obanın hareketini değil, tüm yerel ekosistemi ve sosyal hayatı derinden etkilemiştir. Yakın geçmişe kadar, Toroslara bakan ovalık ve sahil kesimlerindeki yerleşimlerde eğitim sistemi bile bu ontolojik ritme ayak uydurmak zorundaydı:
+
+*   **Bahar Göçü (Mayıs):** Sahillerin ısınmasıyla serin yaylalara çıkış. Hıdırellez sonrası başlar. Bu göç öylesine güçlü bir yaşamsal döngüydü ki, yakın geçmişte okullar Haziran yerine Mayıs ortasında tatil edilirdi. Çünkü karnelerini alan çocuklar, aileleri ve sürüleriyle birlikte develerine ya da atlarına binerek yavaş yavaş yaylalara tırmanmaya başlar ve ancak kışlaklarına geri dönecekleri zaman eğitimlerine devam edebilirlerdi.
+*   **Güz Göçü (Eylül/Ekim):** Yaylaların soğumasıyla sahillere (kışlaklara) iniş. Aileler Eylül ayında kışlaklarına geri döner ve hayat yeniden sahil düzleminde akmaya başlardı.
 
 ## Coğrafi Tasnif ve Rotalama
 Gelecek aşamalarda, bu rotaların coğrafi işaretleri ve tarihsel durak noktaları (pınarlar, hanlar, namazgahlar) külliyata dahil edilecektir.

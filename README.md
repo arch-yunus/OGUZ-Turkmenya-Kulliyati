@@ -1,4 +1,4 @@
-# 🏔️ Yaylak-Yolu: Antalya Yörük Kültürü ve Medeniyet Külliyatı
+# 🏔️ Yaylak-Yolu: Anadolu'nun Tarihsel Kodları ve Türkmen-Yörük Külliyatı
 
 ![Yaylak Yolu Banner](assets/banner.png)
 
@@ -6,80 +6,72 @@
 
 ---
 
-## 🏛️ Vizyon: Kültürel Muhafaza ve Ontolojik Bağımsızlık
+## 🏛️ Vizyon: Bin Yıllık Dinamizm ve Ontolojik Bağımsızlık
 
-"Yaylak-Yolu", Akdeniz’in tuzlu rüzgârlarından Toroslar’ın kekik kokulu zirvelerine uzanan binlerce yıllık bir ontolojik yürüyüşün fikri kalesidir. Bu çalışma, Yörük kültürünü sadece bir folklorik öğe veya geçmişin bir kalıntısı olarak değil; modernitenin tekdüzeleştirici etkisine karşı duran, yaşayan bir **Medeniyet Prototipi** olarak ele alır.
+"Yaylak-Yolu", Balkanlar'dan Kırım'a, Halep'ten İran'a ve Toroslar'ın kekik kokulu zirvelerine uzanan devasa bir coğrafyaya yayılmış **Oğuz-Türkmen** ruhunun ontolojik manifestosudur. Bu çalışma, Yörük ve Türkmen kültürünü sadece folklorik bir öğe veya geçmişin bir kalıntısı olarak değil; modernitenin tekdüzeleştirici etkisine karşı duran, yaşayan bir **Medeniyet Prototipi** olarak ele alır.
 
-Hedefimiz, bu kadim kültürün köklerini akademik bir titizlikle deşifre etmek ve "Ontolojik Bağımsızlık" vizyonuyla, Yörük ruhunun sarsılmaz prensiplerini geleceğin medeniyet tasavvuruna entegre etmektir.
-
----
-
-## 📜 Yörük Manifestosu: Yolun ve Törenin İlkeleri
-
-1.  **Dinamik Varoluş:** Hareket, var olmanın yegâne biçimidir. Yörük için durmak, ontolojik bir sükûttur. İlim ve irfan da bu göç gibi akışkan, taze ve her daim yoldadır.
-2.  **Emanet Ahlakı:** Toprak, su ve hava mülk değil; kadim birer emanettir. Bilgi de bu kutsal emanetin bir parçasıdır; paylaşılır ancak aslına ihanet edilmez.
-3.  **Hafıza ve Töre:** Kültürel mirasımız, yazılı kağıtlardan ziyade vicdanlarda ve sözlü geleneklerde kodlanmıştır. Bu külliyat, bu "yaşayan genetiği" geleceğe taşıyan bir köprüdür.
-4.  **Hikmetli Sadelik:** Karmaşa zaaftır, sadelik ise güçtür. Bir kara çadırın geometrisi, modern mimarinin hantallığına karşı en zarif ve dirençli cevaptır.
+Anadolu'nun kalıcı olarak Türkleşmesi, köylere yerleşmekle değil, askerlikten ve göçebelikten gelen o eşsiz "dinamizm" sayesinde **dağları tutmakla** mümkün olmuştur. Hedefimiz, bu kadim kültürün köklerini akademik bir titizlikle deşifre etmek; şenlikler ve halkın sahip çıkışıyla, tıpkı İngilizlerin Shakespeare'e veya İranlıların Firdevsi'ye sahip çıkması gibi akademik dünyayı bu alanı incelemeye teşvik etmektir.
 
 ---
 
-## 🏔️ Medeniyet Tasavvuru: Toroslar'ın Ontolojik Zirvesi
+## 📜 Yörük-Türkmen Manifestosu: Yolun ve Törenin İlkeleri
 
-Yörük yaşam biçimi, mülkiyet ve yerleşiklik üzerine kurulu Batılı medeniyet tasavvuruna karşı, "hareket ve öz" üzerine kurulu bir alternatif sunar. Bu tasavvurda:
+1.  **Dinamik Varoluş:** Hareket, var olmanın yegâne biçimidir. Asya'dan kopup gelen bu devasa enerjinin sırrı, durmayı ontolojik bir sükût kabul etmesidir. İlim ve irfan da bu göç gibi akışkan, taze ve her daim yoldadır.
+2.  **Özgürlük ve Bağımsızlık Ruhu:** Baskıya boyun eğmemek temel koddur. Kendi hür hayatlarını yaşamayı sevdikleri için devletin kurallarına her zaman riayet etmemiş, iskan politikalarına (Söğüt/Urfa bölünmesi veya Kıbrıs sürgünleri gibi) direnen ve vatan kuran bir iradedir.
+3.  **Emanet Ahlakı:** Toprak, su ve hava mülk değil; kadim birer emanettir. Bilgi de bu kutsal emanetin bir parçasıdır; paylaşılır ancak aslına ihanet edilmez.
+4.  **Hafıza ve Töre:** Kültürel mirasımız, yazılı kağıtlardan ziyade vicdanlarda ve sözlü geleneklerde kodlanmıştır. Bu külliyat, bu "yaşayan genetiği" geleceğe taşıyan bir köprüdür.
+
+---
+
+## 🏔️ Medeniyet Tasavvuru: Dağları Tutarak Anadolulaşmak
+
+Türkler 11. yüzyılın sonunda Anadolu'ya girdiklerinde, yerel halklarla dilsel veya kültürel hiçbir bağları yoktu. Buralarda daha önce yaşayan medeniyetlerin (Termessos, Sagalassos) aksine, Türkler bu coğrafyayı yarı göçebe sürülerle öylesine derinlemesine iskan ettiler ki, İtalyanlar bu topraklara **"Türkmenya"** demeye başladılar.
+
+Yörük yaşam biçimi, mülkiyet ve yerleşiklik üzerine kurulu Batılı medeniyet tasavvuruna karşı, "hareket ve öz" üzerine kurulu bir alternatif sunar:
 - **Oba:** Merkezi olmayan, yatay ve dayanışmacı bir toplumsal birimdir.
 - **Göç:** Mekânsal bir değişimden ziyade, tabiatın ritmine uyum sağlayan bir "arınma" eylemidir.
 - **Kut:** Liyakate ve doğayla kurulan dengeli ilişkiye dayanan bir ruhsal yetkinliktir.
 
 ---
 
-## 🧠 Epistemolojik Temeller: Yaşayan İlim
-
-Yörük epistemolojisi, teorik soyutlamalardan ziyade, doğrudan deneyime ve "yaşayan bilgiye" dayanır. Bir çobanın rüzgârın yönünden fırtınayı sezmesi veya bir nenenin bitki köklerinden şifa damıtması, binlerce yıllık deneysel bir birikimin ürünüdür. Bu külliyat, bu "Halk Bilgeliğini" (Phronesis) akademik bir zemine taşıyarak, bilginin sadece sınıflarda değil, yaylalarda da üretildiğini kanıtlar.
-
----
-
-## ⚖️ Ontolojik Karşılaştırma: İki Dünya, İki Tasavvur
-
-| Alan | Yörük Ontolojisi (Nomadizm) | Modernite (Sedantizm) |
-| :--- | :--- | :--- |
-| **Zaman** | Döngüsel, Tabii (Mevsimlik) | Doğrusal, Yapay (Kronolojik) |
-| **Mekân** | Geçici, Akışkan, Sınırsız | Kalıcı, Hantal, Mülkiyet Odaklı |
-| **Ekonomi** | Paylaşım ve İmece Temelli | Rekabet ve Biriktirme Temelli |
-| **Ekoloji** | Tabiatın Parçası ve Muhafızı | Tabiatın Efendisi ve Tüketicisi |
-| **Mimari** | Çadır (Geçici ve Adaptif) | Beton (Kalıcı ve Statik) |
-| **Hukuk** | Sözlü Töre ve Vicdan Adaleti | Yazılı Yasalar ve Şekli Adalet |
-| **Bilgi** | Tecrübi ve Sezgisel Hikmet | Teorik ve Mekanik Veri |
-
----
-
 ## 🧭 Külliyat Haritası
 
-### 1. 🧠 Felsefi Sütunlar ([felsefe/](felsefe/))
+### 1. ⚔️ Tarihsel Kodlar ([tarih/](tarih/))
+*   **[Oğuz Kökeni ve Coğrafya](tarih/oguz-kokeni-ve-cografya.md)** - Kayı, Avşar ve Bayındır boylarının devasa yayılımı.
+*   **[İskan ve Devlet İlişkisi](tarih/iskan-ve-devlet-iliskisi.md)** - Özgürlüğe düşkünlük, sürgünler (Kıbrıs) ve iskan politikaları.
+*   **[Dağları Tutarak Anadolulaşmak](tarih/daglari-tutarak-anadolulasmak.md)** - Yarı göçebeliğin Anadolu'yu kalıcı vatan ("Türkmenya") yapma stratejisi.
+
+### 2. 🧬 Sosyolojik Derinlik ([sosyoloji/](sosyoloji/))
+*   **[Bin Yıllık Dinamizm](sosyoloji/bin-yillik-dinamizm.md)** - Göçebelikten gelen yaşamsal enerjinin sırrı ve vahdetin (İslam) gücü.
+*   **[Kültürel Direnç ve Gelecek](sosyoloji/kulturel-direnc-ve-gelecek.md)** - Gençlerin festivallerle kültüre tutunması ve akademinin yönlendirilmesi.
+
+### 3. 🧠 Felsefi Sütunlar ([felsefe/](felsefe/))
 *   **[Ontoloji: Varoluşun Dinamiği](felsefe/ontoloji.md)** - Göçebeliğin varoluşsal analizi ve "oluş" felsefesi.
 *   **[Etik: Yolun ve Vicdanın Yasası](felsefe/etik.md)** - Paylaşım, adalet ve doğa ahlakı.
 *   **[Kozmoloji: Gök ve Yer Dengesi](felsefe/kozmoloji.md)** - Gök Töre ve Yörüklerin evren tasavvuru.
 *   **[Estetik: İşlevsel Zarafet](felsefe/estetik.md)** - Sadeliğin ve dayanıklılığın sanatı.
 
-### 2. 📜 Sözlü Gelenek ve Edebiyat ([sozler/](sozler/))
+### 4. 📜 Sözlü Gelenek ve Edebiyat ([sozler/](sozler/))
+*   **[Edebiyat ve İsyan: Dağların Sesi](sozler/edebiyat-ve-isyan.md)** - Dadaloğlu, Karacaoğlan ve Köroğlu'nun direnç şiirleri.
 *   **[Tarihsel Tanıklıklar](sozler/famous-quotes.md)** - Devlet adamlarının ve seyyahların gözüyle Yörükler.
 *   **[Hikmetli Sözler](sozler/wisdom.md)** - Bin yıllık tecrübenin damıtılmış özeti.
 *   **[Maniler ve Ağıtlar](sozler/maniler.md)** - Duygu dünyasının epik yansımaları.
 *   **[Destanlar ve Efsaneler](sozler/destanlar.md)** - Sözlü tarihin mitolojik kökleri.
 
-### 3. 📖 Dil ve Dilbilim ([sozluk/](sozluk/))
+### 5. 📖 Dil ve Dilbilim ([sozluk/](sozluk/))
+*   **[Etimolojik Arkeoloji](sozluk/etimoloji.md)** - Dağlarda korunan Öz Türkçe ve kelime direnci.
 *   **[Kadim Kelimeler Sözlüğü](sozluk/dictionary.md)** - Yörük yaşamının teknik lugatı.
-*   **[Etimolojik Arkeoloji](sozluk/etimoloji.md)** - Kelimelerin kökeninde medeniyet izleri.
 *   **[Dilbilimsel Yapı](sozluk/dilbilim.md)** - Arkaik seslerin ve ağızların muhafazası.
 
-### 4. 🧶 Kültür ve Toplum ([kultur/](kultur/))
-*   **[Sosyal Yapı ve Töre Hukuku](kultur/sosyal-yapi.md)** - Oba nizamı ve İmece usulü.
+### 6. 🧶 Kültür ve Toplum ([kultur/](kultur/))
+*   **[Sosyal Yapı ve Töre Hukuku](kultur/sosyal-yapi.md)** - Bağımsız oba nizamı ve İmece usulü.
 *   **[Yörük Takvimi](kultur/takvim.md)** - Tabiatın nabzına göre zaman yönetimi.
 *   **Mutfak:** [Ateş ve Dumanın Sanatı](kultur/mutfak/tarifler.md) - Geleneksel lezzetler.
 *   **Zanaat:** [Dokuma](kultur/zanaat/dokuma.md) & [Motif Semantiği](kultur/zanaat/motifler.md).
 *   **[Hayvancılık ve Çobanlık](kultur/hayvancilik.md)** - Kadim üretim ve sürü yönetimi.
 
-### 5. 🗺️ Coğrafya ve Rotalar ([rotalar/](rotalar/))
-*   **[Kutlu Yol Haritaları](rotalar/migration.md)** - Sahilden zirveye göç rotaları.
+### 7. 🗺️ Coğrafya ve Rotalar ([rotalar/](rotalar/))
+*   **[Kutlu Yol Haritaları](rotalar/migration.md)** - Sahilden zirveye göç rotaları ve okulların mayısta kapanması.
 *   **[Zirveler ve Yaylalar](rotalar/yaylalar.md)** - Boyların mülkiyetindeki kutsal yükseltiler.
 *   **[Flora ve Fauna](rotalar/ekosistem.md)** - Toroslar'ın biyolojik sermayesi.
 

@@ -1,6 +1,10 @@
-# Yörük Sosyal Yapısı: Oba ve Beylik Sistemi
+# Yörük Sosyal Yapısı: Oba ve Bağımsızlık Ruhu
 
-Yörüklerin binlerce yıllık varlığını sürdürebilmesinin temelinde, esnek ama sarsılmaz bir sosyal hiyerarşi ve yardımlaşma ağı yatar. Bu yapı, yerleşik devletlerin hantal bürokrasisinden uzak, hızlı karar alabilen bir "hareket kabiliyeti" sunar.
+Yörüklerin ve Türkmenlerin binlerce yıllık varlığını sürdürebilmesinin temelinde, esnek ama sarsılmaz bir sosyal hiyerarşi ve yardımlaşma ağı yatar. Bu yapı, yerleşik devletlerin hantal bürokrasisinden uzak, hızlı karar alabilen bir "hareket kabiliyeti" sunar.
+
+## Merkezi Otorite ve Bağımsızlık Tutkusu
+
+Yörük sosyal yapısının en temel psikolojik kodu, **özgürlüğe olan derin düşkünlük ve baskıya boyun eğmemektir**. Kendi hür hayatlarını yaşamayı sevdikleri için, vergi toplamak veya asker devşirmek isteyen yerleşik devlet otoriteleriyle her zaman gerilimli bir ilişki içinde olmuşlardır. Kendi obasının kuralları (töre), çoğu zaman devletin kanunlarından üstün tutulmuş; bu isyankar ve başına buyruk aşiret yapısı, onları her türlü dış müdahaleye karşı kendi içlerinde sarsılmaz bir dayanışmaya (asabiyet) itmiştir.
 
 ## Sosyal Birimler
 
