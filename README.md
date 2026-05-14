@@ -71,6 +71,8 @@ Yörük yaşam biçimi, mülkiyet ve yerleşiklik üzerine kurulu Batılı meden
 *   **[Hayvancılık ve Çobanlık](kultur/hayvancilik.md)** - Kadim üretim ve sürü yönetimi.
 
 ### 7. 🔍 Araştırmalar ve Tanıklıklar ([arastirmalar/](arastirmalar/))
+*   **[Oğuz Boy Teşkilatı](arastirmalar/oguz-boy-teskilati.md)** - 24 Boyun anlamı, Bozok-Üçok ayrımı ve boy damgaları.
+*   **[Oğuz Felsefesi ve Destanlar](arastirmalar/oguz-felsefesi-ve-destanlar.md)** - Oğuz Kağan, Dede Korkut ve Cihan Hakimiyeti ülküsü.
 *   **[Tarihsel Tanıklıklar](arastirmalar/tarihsel-tanikliklar.md)** - İbn Battuta, Marko Polo ve Batılı seyyahların notları.
 *   **[Akademik Analizler](arastirmalar/akademik-analizler.md)** - Halil İnalcık, Faruk Sümer ve Fuad Köprülü'nöt tespitleri.
 *   **[İskan ve Toponimi](arastirmalar/iskan-ve-toponimi.md)** - Kıbrıs sürgünleri, Kayı bölünmesi ve yer isimleri diplomasisi.
