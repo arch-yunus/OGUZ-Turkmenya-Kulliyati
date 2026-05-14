@@ -12,16 +12,24 @@ Ayrıca kendi kökeni hakkında şu ifadeyi kullanmıştır:
 
 > *"Biz Rumeli Türkleri daha I. Murat devrinde Rumeli'ye iskan edilmeye başlanmışız. Aslımız Yörük, atalardan beri söylenir durur."*
 
-## Tarihçiler ve Seyyahların Tespitleri
+## İbn Battuta (14. Yüzyıl Seyyahı)
+Faslı ünlü seyyah, Anadolu Türkmenlerini "yaratılmışların en hayırlısı" olarak tanımlamıştır:
 
-### "Türkiye'nin Mayası"
-Birçok sosyolog ve tarihçi, Yörükleri Anadolu'nun Türkleşmesinde ve bu toprakların vatan kılınmasında en önemli "maya" olarak görür. Yörük, Türk kimliğinin en saf, dış etkilere en kapalı ve en dirençli formudur.
+> *"Anadolu halkı dünyanın en güzel insanlarıdır; temiz giyinirler, lezzetli yemekler yerler ve **yaratılmışların en hayırlısıdırlar.** Hiçbir yerde yabancıları karşılamada onlardan daha hevesli bir millet görmedim."*
 
-### Seyyahların Notlarında Yörük Karakteri
-18. ve 19. yüzyılda Anadolu'yu gezen Avrupalı seyyahlar, Yörükleri şu özelliklerle tanımlamıştır:
-- **Konukseverlik:** Tanımadığı bir misafiri çadırında baş köşeye oturtan, elindeki son ekmeği paylaşan bir cömertlik.
-- **Doğal Özgürlük:** Hiçbir otoriteye tam boyun eğmeyen, sadece doğanın kanunlarına (Töre) uyan bağımsız bir ruh.
-- **Sadelik:** Gösterişten uzak, sadece işlevsel olana değer veren bir yaşam estetiği.
+## Halil İnalcık (Tarihçilerin Kutbu)
+İnalcık, Osmanlı İmparatorluğu'nun kuruluşunda Yörüklerin stratejik rolünü şöyle açıklar:
+
+> *"Osmanlı Devleti bir 'uc' devleti olarak doğdu. Bu devletin askeri ve demografik mayasını Toroslar'dan ve Orta Asya'dan gelen Yörük-Türkmen kitleleri oluşturdu. Onlar olmasaydı, imparatorluk bir cihan devleti haline gelemezdi."*
+
+## Marko Polo (13. Yüzyıl Seyyahı)
+Venedikli seyyah, Türkmenlerin zanaat ve yaşam biçimine hayran kalmıştır:
+
+> *"Turcomania'da kendi dilleri ve mükemmel adetleri olan Türkmenler yaşar. Dağlarda ve yaylalarda özgürce dolaşırlar. Dünyanın en güzel halılarını ve ipekli dokumalarını onlar üretir."*
+
+## Sosyolojik Tespitler
+*   **Bağımsızlık:** Yörükler için çadırın dışındaki her yer hapishanedir. Sadece gökyüzünün altında ve hareket halindeyken kendilerini tam anlamıyla hür hissederler.
+*   **Dürüstlük:** Yörüklerin arasında hırsızlık neredeyse bilinmez. Onların töresi, yazılı kanunlardan çok daha sert ve adildir.
 
 ## Edebi ve Kültürel Yansımalar
 

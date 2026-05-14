@@ -70,7 +70,12 @@ Yörük yaşam biçimi, mülkiyet ve yerleşiklik üzerine kurulu Batılı meden
 *   **Zanaat:** [Dokuma](kultur/zanaat/dokuma.md) & [Motif Semantiği](kultur/zanaat/motifler.md).
 *   **[Hayvancılık ve Çobanlık](kultur/hayvancilik.md)** - Kadim üretim ve sürü yönetimi.
 
-### 7. 🗺️ Coğrafya ve Rotalar ([rotalar/](rotalar/))
+### 7. 🔍 Araştırmalar ve Tanıklıklar ([arastirmalar/](arastirmalar/))
+*   **[Tarihsel Tanıklıklar](arastirmalar/tarihsel-tanikliklar.md)** - İbn Battuta, Marko Polo ve Batılı seyyahların notları.
+*   **[Akademik Analizler](arastirmalar/akademik-analizler.md)** - Halil İnalcık, Faruk Sümer ve Fuad Köprülü'nöt tespitleri.
+*   **[İskan ve Toponimi](arastirmalar/iskan-ve-toponimi.md)** - Kıbrıs sürgünleri, Kayı bölünmesi ve yer isimleri diplomasisi.
+
+### 8. 🗺️ Coğrafya ve Rotalar ([rotalar/](rotalar/))
 *   **[Kutlu Yol Haritaları](rotalar/migration.md)** - Sahilden zirveye göç rotaları ve okulların mayısta kapanması.
 *   **[Zirveler ve Yaylalar](rotalar/yaylalar.md)** - Boyların mülkiyetindeki kutsal yükseltiler.
 *   **[Flora ve Fauna](rotalar/ekosistem.md)** - Toroslar'ın biyolojik sermayesi.
