@@ -1,6 +1,6 @@
 # 🏔️ Yaylak-Yolu: Anadolu'nun Tarihsel Kodları ve Türkmen-Yörük Külliyatı
 
-![Yaylak Yolu Banner](assets/banner.png)
+![Yaylak Yolu Banner](assets/banner_new.png)
 
 > **"Arkadaşlar! Gidip Toros Dağları'na bakınız, eğer orada bir tek Yörük çadırı görürseniz ve o çadırda bir duman tütüyorsa, şunu çok iyi biliniz ki, bu dünyada hiçbir güç ve kuvvet bizi asla yenemez."** — *Mustafa Kemal Atatürk*
 
